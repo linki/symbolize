@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
      "init.rb",
      "lib/symbolize.rb",
      "lib/symbolize_helper.rb",
+     "linki-symbolize.gemspec",
      "rails/init.rb",
      "spec/db/create_testing_structure.rb",
      "spec/locales/pt.yml",
