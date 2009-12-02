@@ -5,7 +5,7 @@ require 'spec/rake/spectask'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "symbolize"
+    gem.name = "linki-symbolize"
     gem.summary = "ActiveRecord enums with i18n"
     gem.description = "ActiveRecord enums with i18n"
     gem.email = "m.linkhorst@googlemail.com"
